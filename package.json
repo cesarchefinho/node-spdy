@@ -35,7 +35,7 @@
   ],
   "dependencies": {
     "debug": "^4.1.0",
-    "handle-thing": "^2.0.0",
+    "handle-thing": "^2.0.1",
     "http-deceiver": "^1.2.7",
     "select-hose": "^2.0.0",
     "spdy-transport": "^3.0.0"
